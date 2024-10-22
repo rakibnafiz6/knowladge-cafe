@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/19ZMyFq/8317005.jpg",
+      "title": "The Hidden Universe",
+      "author": "Sarah Young",
+      "author_img": "https://i.ibb.co.com/56S0LMV/thoughtful-creative-male-journalist-writer-biting.jpg",
+      "posted_date": "2024-08-12",
+      "reading_time": 7,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/yy9Mjr0/flat-lay-desktop-with-calculator-succulent.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Michael Adams",
+      "author_img": "https://fakeimage.com/authors/michael.jpg",
+      "posted_date": "2024-06-30",
+      "reading_time": 5,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/0nG7G5L/7048312.jpg",
+      "title": "Beneath the Ocean's Waves",
+      "author": "Emily Grace",
+      "author_img": "https://fakeimage.com/authors/emily.jpg",
+      "posted_date": "2024-09-18",
+      "reading_time": 9,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/n3nrzqv/top-view-laptop-glasses.jpg",
+      "title": "Echoes of the Past",
+      "author": "Daniel Martin",
+      "author_img": "https://fakeimage.com/authors/daniel.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 6,
+      "hashtags": ["beginners", "es6"]
+    }
+    
+  ]
+  
