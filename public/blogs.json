@@ -17,7 +17,7 @@
       "author_img": "https://fakeimage.com/authors/michael.jpg",
       "posted_date": "2024-06-30",
       "reading_time": 5,
-      "hashtags": ["beginners", "es6"]
+      "hashtags": ["javascript", "coding"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "author_img": "https://fakeimage.com/authors/emily.jpg",
       "posted_date": "2024-09-18",
       "reading_time": 9,
-      "hashtags": ["beginners", "es6"]
+      "hashtags": ["mid-level", "react"]
     },
     {
       "id": 4,
